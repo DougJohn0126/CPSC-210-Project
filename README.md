@@ -6,12 +6,11 @@
 In March 2023, the Nintendo Switch will have its sixth anniversary. 
 It's incredible to think that the adored console/handheld hybrid has been available for more than six years, 
 selling more than 114 million devices, more than 900 million games, and providing countless unforgettable moments.
-Nintendo puts an immense amount of money and time into producing titles that give its players the best experiences.
+Nintendo puts an immense amount of money and time into producing titles that give players the best experiences.
 <br>
 
-Despite this, the console/brand has fallen behind its social networking features, a tool that is very
-integrated in today's society. The current app offered has very limited features and lacks appeal, when the whole 
-point of it should be to enhance the users experience. There is currently no convenient way for one to share their 
+Despite this, the console/brand has fallen behind on its social networking features, a tool that is very
+integrated in today's society. The current app offered has very limited features and lacks appeal. There is currently no convenient way for one to share their 
 Switch experiences with others.
 
 
