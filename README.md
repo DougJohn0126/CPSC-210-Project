@@ -1,5 +1,7 @@
 # My Switch Desktop Application
 
+![alt text](https://github.com/DougJohn0126/CPSC-210-Project/blob/main/Example.JPG)
+
 ## Introduction
 In March 2023, the Nintendo Switch will have its sixth anniversary. 
 It's incredible to think that the adored console/handheld hybrid has been available for more than six years, 
