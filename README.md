@@ -59,22 +59,4 @@ crucial to plan out how those functions would work and the data is designed.
 - Mon Apr 10 03:23:50 PDT 2023 Added 12 hours to Crash Bandicoot N. Sane Trilogy
 - Mon Apr 10 03:24:29 PDT 2023 Removed  Crash Bandicoot N. Sane Trilogy
 
-# Phase 4: Task 3
 
-First and foremost, I decided to color code the classes in my UML diagram depending on what package or origin they come
-from. While I don't know if this is an industry standard or not, I did it for the sake of clarity for people who would 
-read my code base for the first time. Furthermore, I decided to include some of the Java builtin classes that are used
-by the GUI. This was also done for clarity, since I wanted to convey what thing I'm using to make my GUI. In general, my UML 
-diagram is clear since I used the fewest number of classes to achieve functionality. Game is its own object and Backlog
-can store an arbitrary long amount of them and do specific operations on them. 
-
-Much of my program is simple since I was learning the course content as I progressed my project. If given more time, I 
-wish to make Game an interface instead, and make different classes for games from different platforms like Playstation and
-Xbox. I decided to limit my scope to just Nintendo Switch games since other games would've had different attributes like 
-missions, milestones, and etc. However, the biggest change I would make would be revolving the Backlog class that stores 
-all the games. While it is not apparent in the UML diagram, I believe more of what's done in the GUI could've been moved
-to the Backlog class instead. For example, I decided last minute that I wanted to be able to filter the games in the list
-view through radio buttons. Since the backlog didn't have this functionality I had to do it through a helper in the GUI. Since this is my 
-first time makaing a project with Java, it was difficult to plan out what should be done by my model classes since I didn't know 
-what the GUI would be like or is capable of (e.g. having radio buttons). However, this was a great learning experience as I was able to adapt the program 
-to my desires and get a thorough understanding of jFrame.
