@@ -1,0 +1,20 @@
+{
+    "accountId": 973,
+    "name": "Alan",
+    "games": [
+        {
+            "name": "Mario",
+            "genre": "Platformer",
+            "length": 15,
+            "playtime": 0,
+            "status": false
+        },
+        {
+            "name": "Zelda",
+            "genre": "Adventure",
+            "length": 120,
+            "playtime": 0,
+            "status": false
+        }
+    ]
+}
